@@ -37,7 +37,7 @@ namespace Calculator_2._0
             user_output_box.Text = output.Replace(",", "."); //Byter ut , med .
             }
         catch
-            { user_output_box.Text = string_to_calculate + "ERROR"; }
+            { user_output_box.Text = "ERROR"; }
         }
 
         private void clear_button_Click(object sender, EventArgs e) //Tömmer input label

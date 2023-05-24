@@ -5,6 +5,7 @@ using System.Linq;
 using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Calculator_2._0
@@ -67,6 +68,11 @@ namespace Calculator_2._0
             if (double.TryParse(rootNumber, out rootNumberDouble))
             {}
             string result = Math.Sqrt(rootNumberDouble).ToString();
+            if (result == "0" || result.Contains("-")) //Om resultat har blivit 0 eller inehåller ett - är uträkningen antingen fel eller så är input fel
+            {
+                string ERROR = "ERROR";
+                return ERROR;
+            }
             string output = string_to_calculate.Replace("√" + rootNumber, result); //Byter ut roten ur tecken + givet nummer och behåller all annan information i inputen
             output = output.Replace(",", "."); //Byter tillbaka till . eftersom att användaren skriver med . och programmet utgår från det
             return output;

@@ -1,0 +1,17 @@
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\obj\Debug\net6.0-windows\Calculator 2.0.csproj.AssemblyReference.cache
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\obj\Debug\net6.0-windows\Calculator_2._0.Form1.resources
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\obj\Debug\net6.0-windows\Calculator 2.0.csproj.GenerateResource.cache
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\obj\Debug\net6.0-windows\Calculator 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\obj\Debug\net6.0-windows\Calculator 2.0.AssemblyInfoInputs.cache
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\obj\Debug\net6.0-windows\Calculator 2.0.AssemblyInfo.cs
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\obj\Debug\net6.0-windows\Calculator 2.0.csproj.CoreCompileInputs.cache
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\bin\Debug\net6.0-windows\Calculator 2.0.exe
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\bin\Debug\net6.0-windows\Calculator 2.0.deps.json
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\bin\Debug\net6.0-windows\Calculator 2.0.runtimeconfig.json
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\bin\Debug\net6.0-windows\Calculator 2.0.dll
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\bin\Debug\net6.0-windows\Calculator 2.0.pdb
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\obj\Debug\net6.0-windows\Calculator 2.0.dll
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\obj\Debug\net6.0-windows\refint\Calculator 2.0.dll
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\obj\Debug\net6.0-windows\Calculator 2.0.pdb
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\obj\Debug\net6.0-windows\Calculator 2.0.genruntimeconfig.cache
+C:\Users\tim.nicander\Desktop\programmering 2\Calculator 2.0\Calculator 2.0\obj\Debug\net6.0-windows\ref\Calculator 2.0.dll
